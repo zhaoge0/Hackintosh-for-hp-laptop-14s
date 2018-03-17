@@ -2,7 +2,7 @@
 hp-14s笔记本安装macOS步骤简述
 
 windows下：
-1、下载macOS High Sierra 10.13.3 17D47 正式版 with Clover 4391原版镜像（https://mirrors.dtops.cc/iso/MAC%20OS/%E9%BB%91%E6%9E%9C%E5%B0%8F%E5%85%B5/macOS%20High%20Sierra%2010.13.3%2817D47%29%20Installer%20with%20Clover%204391.dmg）；
+1、下载macOS High Sierra 10.13.3 17D47 正式版 with Clover 4391原版镜像（https://blog.daliansky.net）；
 
 2、打开创建并格式化分区（windows自带），压缩得到一个40g以上的分区；
 
@@ -28,7 +28,7 @@ macOS下：
 
 12、替换SLE中的蓝牙驱动；
 
-13、安装usbnet.pkg（usb网卡驱动可选）；
+13、安装usbnet.pkg（usb网卡驱动可选）。
 
 
 
