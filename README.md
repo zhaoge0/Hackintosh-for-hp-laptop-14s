@@ -2,7 +2,7 @@
 hp-14s笔记本安装macOS步骤简述
 
 windows下：
-1、下载macOS High Sierra 10.13.3 17D47 正式版 with Clover 4391原版镜像（https://blog.daliansky.net）；
+1、下载macOS High Sierra 10.13.3 17D47 正式版 with Clover 4391原版镜像（https://blog.daliansky.net/）；
 
 2、打开创建并格式化分区（windows自带），压缩得到一个40g以上的分区；
 
